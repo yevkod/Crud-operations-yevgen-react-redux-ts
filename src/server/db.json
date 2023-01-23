@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "name": "Yevgen",
+      "surname": "Nevidim",
+      "phone": "380660247785",
+      "email": "evgennevidim@gmail.com",
+      "sex": "male",
+      "id": 3
+    },
+    {
+      "name": "Yevgen",
+      "surname": "Full-Stack",
+      "phone": "380330247785",
+      "email": "evgen1@gmail.com",
+      "sex": "male",
+      "id": 4
+    }
+  ]
+}
